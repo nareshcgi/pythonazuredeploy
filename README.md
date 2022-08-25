@@ -1,2 +1,2 @@
 # pythonazuredeploy
-Testing Python Django deploy in Azure Web App service
+Testing Python Django deploy in Azure Web App service.
