@@ -23,7 +23,7 @@ SECRET_KEY = 'YOUR-SECRET-KEY'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['djangonaresh.azurewebsites.net']
 
 
 # Application definition
