@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'djangonaresh'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0DCA70A4C1054DA49BA3EA40783296C9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8974E1050F145BE956A87276FBDA776 }}
