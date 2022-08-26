@@ -14,8 +14,9 @@ steps:
   commands:
   - pip install django
   - cd MyCITest/samplepythonapp
-  - python setup.py sdist
+  - python setup.py sdist --formats=gztar,zip
   - cp dist/*.gz ../../
+  - cp dist/*.zip ../../
 - name: cleanup
   image: alpine/git
   # pull: always # never, if-not-exists
